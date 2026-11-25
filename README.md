@@ -1,3 +1,5 @@
+> **Moved.** This plugin is now part of [@soffits/dsh-web-tweaks](https://github.com/soffits/dsh-web-tweaks) (`features/file-download`), with its history. This repository is archived.
+
 # dsh-file-download
 
 A Download button for the [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) (DSH) Web document preview.
